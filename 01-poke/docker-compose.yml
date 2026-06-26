@@ -1,6 +1,6 @@
 services:
   pokemon-db:
-    image: postgres:latest
+    image: postgres:16
     restart: always
     environment:
       POSTGRES_DB: pokemon_db
