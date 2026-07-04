@@ -9,7 +9,8 @@ services:
     ports:
       - "5432:5432"  
     volumes:
-      - pgdata:/var/lib/postgresql/data
+      - pokemon_pgdata:/var/lib/postgresql/data
+      - ./create-pokemon-schema.sql:/docker-entrypoint-initdb.d/create-pokemon-schema.sql:ro
 
 volumes:
-  pgdata:
+  pokemon_pgdata:
