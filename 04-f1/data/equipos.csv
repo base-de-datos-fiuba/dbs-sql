@@ -1,0 +1,215 @@
+cod_equipo,nombre,veces_campeon
+1,Alfa Romeo,0
+2,Maserati,0
+3,Alta,0
+4,ERA,0
+5,Talbot-Lago,0
+6,Ferrari,16
+7,Cooper,0
+8,Simca,0
+9,Watson,0
+10,Kurtis Kraft,0
+11,Deidt,0
+12,Adams,0
+13,Snowberger,0
+14,Wetteroth,0
+15,Olson,0
+16,Rae,0
+17,Ewing,0
+18,Langley,0
+19,Lesovsky,0
+20,Stevens,0
+21,Marchese,0
+22,Nichels,0
+23,Moore,0
+24,Milano,0
+25,HWM,0
+26,Veritas,0
+27,Trevis,0
+28,Kuzma,0
+29,Schroeder,0
+30,Pawl,0
+31,Bromme,0
+32,Hall,0
+33,Sherman,0
+34,BRM,1
+35,OSCA,0
+36,Gordini,0
+37,AFM,0
+38,Frazer Nash,0
+39,Aston Butterworth,0
+40,Connaught,0
+41,BMW,0
+42,Cisitalia,0
+43,Turner,0
+44,Del Roy,0
+45,EMW,0
+46,Pankratz,0
+47,Phillips,0
+48,Mercedes,8
+49,Vanwall,1
+50,Klenk,0
+51,Lancia,0
+52,Epperly,0
+53,Arzani-Volpini,0
+54,Bugatti,0
+55,Emeryson,0
+56,Dunn,0
+57,Porsche,0
+58,Team Lotus,4
+59,Cooper-Climax,2
+60,Cooper-Maserati,0
+61,Christensen,0
+62,Elder,0
+63,Sutton,0
+64,Aston Martin,0
+65,JBW,0
+66,Fry,0
+67,Cooper-Borgward,0
+68,Tec-Mec,0
+69,Cooper-OSCA,0
+70,Behra-Porsche,0
+71,Scarab,0
+72,Cooper-Castellotti,0
+73,Meskowski,0
+74,Lotus-Climax,2
+75,De Tomaso-Osca,0
+76,Ferguson,0
+77,Gilby,0
+78,MBM,0
+79,Lotus-Maserati,0
+80,De Tomaso-Alfa Romeo,0
+81,Lola,0
+82,Lotus-BRM,0
+83,Brabham,0
+84,ENB,0
+85,De Tomaso,0
+86,Lotus-Borgward,0
+87,LDS,0
+88,Cooper-Alfa Romeo,0
+89,ATS,0
+90,Scirocco,0
+91,BRP,0
+92,De Tomaso-Ferrari,0
+93,Stebro,0
+94,Lotus-Ford,1
+95,Brabham-Climax,0
+96,Brabham-BRM,0
+97,Brabham-Ford,0
+98,Honda,0
+99,Derrington,0
+100,RE,0
+101,LDS-Climax,0
+102,LDS-Alfa Romeo,0
+103,Cooper-Ford,0
+104,McLaren-Ford,0
+105,Brabham-Repco,2
+106,McLaren-Serenissima,0
+107,Eagle-Climax,0
+108,Shannon,0
+109,Cooper-Ferrari,0
+110,Eagle-Weslake,0
+111,Matra,0
+112,McLaren-BRM,0
+113,Cooper-ATS,0
+114,Protos,0
+115,Cooper-BRM,0
+116,Matra-Ford,1
+117,McLaren,10
+118,BRM-Ford,0
+119,March,0
+120,McLaren-Alfa Romeo,0
+121,Bellasi,0
+122,Surtees,0
+123,Tyrrell,1
+124,March-Ford,0
+125,March-Alfa Romeo,0
+126,Lotus-Pratt &amp; Whitney,0
+127,Tecno,0
+128,Politoys,0
+129,Connew,0
+130,Iso Marlboro,0
+131,Shadow,0
+132,Ensign,0
+133,Hesketh,0
+134,Amon,0
+135,Trojan,0
+136,Token,0
+137,Maki,0
+138,Lyncar,0
+139,Penske,0
+140,Parnelli,0
+141,Williams,9
+142,Fittipaldi,0
+143,Shadow-Ford,0
+144,Embassy Hill,0
+145,Shadow-Matra,0
+146,Ligier,0
+147,Brabham-Alfa Romeo,0
+148,Wolf,0
+149,Boro,0
+150,Kojima,0
+151,LEC,0
+152,Renault,2
+153,McGuire,0
+154,Apollon,0
+155,Theodore,0
+156,Merzario,0
+157,Arrows,0
+158,Martini,0
+159,Kauhsen,0
+160,Rebaque,0
+161,Osella,0
+162,Toleman,0
+163,RAM,0
+164,Spirit,0
+165,Minardi,0
+166,Zakspeed,0
+167,Benetton,1
+168,AGS,0
+169,Larrousse,0
+170,Coloni,0
+171,Dallara,0
+172,Euro Brun,0
+173,Rial,0
+174,Onyx,0
+175,Leyton House,0
+176,Life,0
+177,Jordan,0
+178,Footwork,0
+179,Fondmetal,0
+180,Lambo,0
+181,Andrea Moda,0
+182,Sauber,0
+183,Pacific,0
+184,Simtek,0
+185,Forti,0
+186,Stewart,0
+187,Prost,0
+188,BAR,0
+189,Jaguar,0
+190,Toyota,0
+191,Red Bull,6
+192,BMW Sauber,0
+193,Super Aguri,0
+194,MF1,0
+195,Toro Rosso,0
+196,Spyker MF1,0
+197,Spyker,0
+198,Force India,0
+199,Brawn,1
+200,HRT,0
+201,Virgin,0
+202,Lotus,0
+203,Caterham,0
+204,Lotus F1,0
+205,Marussia,0
+206,Manor Marussia,0
+207,Haas F1 Team,0
+208,Racing Point,0
+209,AlphaTauri,0
+210,Alpine F1 Team,0
+211,RB F1 Team,0
+212,Eagle,0
+215,Audi,0
+216,Cadillac F1 Team,0
