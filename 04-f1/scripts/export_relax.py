@@ -96,6 +96,7 @@ def main() -> int:
         counts = [write_relation(file, *relation) for relation in RELATIONS]
         temporary_name = file.name
     os.replace(temporary_name, OUTPUT)
+    OUTPUT.chmod(0o644)
     print(f"Dataset ReLaX creado en {OUTPUT} ({', '.join(str(count) for count in counts)} filas).")
     return 0
 
