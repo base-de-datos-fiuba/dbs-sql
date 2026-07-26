@@ -97,6 +97,7 @@ def write_json_atomically(path: Path, value: Mapping[str, object]) -> None:
         file.write("\n")
         temporary_name = file.name
     os.replace(temporary_name, path)
+    path.chmod(0o644)
 
 
 def rows_from_zip(archive: Path, filename: str) -> list[dict[str, str]]:

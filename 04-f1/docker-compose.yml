@@ -1,0 +1,16 @@
+services:
+  f1-jolpica-db:
+    build: .
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: f1-jolpica
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: admin
+    ports:
+      - "5432:5432"
+    volumes:
+      - f1_jolpica_pgdata:/var/lib/postgresql/data
+      - ./data:/data:ro
+
+volumes:
+  f1_jolpica_pgdata:
